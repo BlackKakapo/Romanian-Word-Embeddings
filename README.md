@@ -1,6 +1,5 @@
-# Romanian Word Embeddings (Coming soon)
+# Romanian Word Embeddings
 
-###### [CopyLeft Project](https://en.wikipedia.org/wiki/Copyleft)
 These vectors was trained with 3 different methods (CBOW, Skip-Gram, FastText). The dataset is a bunch of text that was taken from internet (news, comments, blogs etc.).
 
 #
