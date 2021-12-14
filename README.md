@@ -23,7 +23,7 @@ The text is pre processed and cleaned.
 | CBOW | 300 | 25 | 5 | 13% | 23% | <a href="https://drive.google.com/file/d/1rZw5gVw5iXcs8438QWPKY0aIHGCYO6wk/view?usp=sharing">Download</a> | 4.2 GB |
 | CBOW | 300 | 25 | 15 | 63% | 91% | <a href="">Coming soon</a> | 4.2 GB |
 | CBOW | 300 | 25 | 20 | 64% | 93% | <a href="">Coming soon</a> | 4.2 GB |
-| CBOW | 600 | 25 | 20 | 68% | 96% | a href="">Coming soon</a> |  GB |
+| CBOW | 600 | 25 | 20 | 68% | 96% | <a href="">Coming soon</a> |  GB |
 | Skip-Gram | 300 | 25 | 5 | n | n |
 | Skip-Gram | 300 | 25 | 15 | n | n |
 | Skip-Gram | 300 | 25 | 20 | n | n |
