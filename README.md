@@ -11,8 +11,8 @@ These vectors was trained with 3 different methods (CBOW, Skip-Gram, FastText). 
 ### About Dataset
 The text is pre processed and cleaned.
 
-- 3.136.600.772 -  Sentences (One of purpose is the sentence need to be bigger than 35 characters, including the spaces) 
-- 46.514.848.508 -  Words
+- 784.150.193 -  Sentences (One of purpose is the sentence need to be bigger than 35 characters, including the spaces) 
+- 11.628.712.127 -  Words
 - 1.311.442 - Unique words
 - 14,82 - AVG number of words in sentence
 
