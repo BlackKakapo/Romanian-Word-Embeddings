@@ -1,6 +1,6 @@
 # Romanian Word Embeddings
 
-These vectors was trained with 3 different methods (CBOW, Skip-Gram, FastText). The dataset is a bunch of text that was taken from internet (news, comments, blogs etc.).
+These vectors was trained with 3 different methods (CBOW, Skip-Gram, FastText) from Gensim library. The dataset is a bunch of text that was taken from internet (news, comments, blogs etc.).
 
 #
 
