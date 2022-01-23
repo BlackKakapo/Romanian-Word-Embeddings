@@ -27,7 +27,7 @@ The text is pre processed and cleaned.
 | Skip-Gram | 300 | 25 | 15 | 75% | 98.91% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EfQge6CHUVtLsnL0uKVIbvgBLeLZi44cA9LX23HF439nSg?e=5lxBZ2">Download</a> | 4.2 GB |
 | Skip-Gram | 300 | 25 | 20 | 76% | 98.70% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EXT1iP0bYn9GmFgLM18cCeEBixKcuOjjekNOf5FqgDEZJw?e=Ned0KZ">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERpnT8Uxk4JIhcIq3uk3xSoBih9-nWGGFoIPnYkLOPJ8kQ?e=ZRlGQv">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 15 | n | n |
+| FastText | 300 | 25 | 15 | 71% | 97% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec4aEOxyeylCocxOeEe7BjgBiXTRsRmM4jl7OfQ6ZjIS_w?e=6qfqcA">Download</a> | 6.29 GB |
 | FastText | 300 | 25 | 20 | n | n |
 
 #
