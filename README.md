@@ -41,6 +41,6 @@ SET1 and SET2 are sets with questions-answer with country and capitals, that was
 
 #
 
-SET1 - 1892 analogies for European countries and their capitals
+[SET1](https://github.com/BlackKakapo/Romanian-Word-Embeddings/tree/main/SET/SET1) - 1892 analogies for European countries and their capitals
 
-SET2 - 462 analogies for European countries and their capitals (subset of SET1)
+[SET2](https://github.com/BlackKakapo/Romanian-Word-Embeddings/tree/main/SET/SET2) - 462 analogies for European countries and their capitals (subset of SET1)
