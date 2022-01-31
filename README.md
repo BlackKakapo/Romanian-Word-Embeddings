@@ -28,7 +28,7 @@ The text is pre processed and cleaned.
 | Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EXT1iP0bYn9GmFgLM18cCeEBixKcuOjjekNOf5FqgDEZJw?e=Ned0KZ">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERpnT8Uxk4JIhcIq3uk3xSoBih9-nWGGFoIPnYkLOPJ8kQ?e=ZRlGQv">Download</a> | 6.29 GB |
 | FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec4aEOxyeylCocxOeEe7BjgBiXTRsRmM4jl7OfQ6ZjIS_w?e=6qfqcA">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 20 | n | n |
+| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EWP9jFB6JKFBrB3bm7kRHuMBVl83iAAZYd2FUbUxfyAZBQ?e=WNxdSb">Download</a> | 6.29 GB |
 
 #
 
@@ -36,8 +36,8 @@ SET1 and SET2 are sets with questions-answer with country and capitals, that was
 
 
 ##### Example:
-- Romania - Bucharest + London = Great Britain (eng).
-- România - București + Londra = Marea Britanie (rom).
+- austria - vienna + amsterdam = netherlands  (eng).
+- austria - viena + amsterdam = olanda (rom).
 
 #
 
