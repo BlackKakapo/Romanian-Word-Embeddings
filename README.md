@@ -26,9 +26,9 @@ The text is pre processed and cleaned.
 | Skip-Gram | 300 | 25 | 5 | 71% | 92% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EZ5nl68KBxJDm4VoLcAzV9wBrNW9eglb2Pse0hg3U1kQAg?e=yc1lAF">Download</a> | 4.2 GB |
 | Skip-Gram | 300 | 25 | 15 | 79% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EfQge6CHUVtLsnL0uKVIbvgBLeLZi44cA9LX23HF439nSg?e=hseSCE">Download</a> | 4.2 GB |
 | Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EXT1iP0bYn9GmFgLM18cCeEBixKcuOjjekNOf5FqgDEZJw?e=eHcPSj">Download</a> | 4.2 GB |
-| FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERpnT8Uxk4JIhcIq3uk3xSoBih9-nWGGFoIPnYkLOPJ8kQ?e=ZRlGQv">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec4aEOxyeylCocxOeEe7BjgBiXTRsRmM4jl7OfQ6ZjIS_w?e=6qfqcA">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EWP9jFB6JKFBrB3bm7kRHuMBVl83iAAZYd2FUbUxfyAZBQ?e=WNxdSb">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERpnT8Uxk4JIhcIq3uk3xSoBih9-nWGGFoIPnYkLOPJ8kQ?e=xkGeTg">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec4aEOxyeylCocxOeEe7BjgBiXTRsRmM4jl7OfQ6ZjIS_w?e=oea9Ga">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EWP9jFB6JKFBrB3bm7kRHuMBVl83iAAZYd2FUbUxfyAZBQ?e=hZoUTh">Download</a> | 6.29 GB |
 
 #
 
