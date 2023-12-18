@@ -23,9 +23,9 @@ The text is pre processed and cleaned.
 | CBOW | 300 | 25 | 5 | 14% | 23% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERi2j7fQ5bJEgD0-AkLqxacBENnRopTmoyNmF27fmgu9SQ?e=9tWddy">Download</a> | 4.2 GB |
 | CBOW | 300 | 25 | 15 | 66% | 91% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EUREkeqmIjxMhLaRs5Z_0QUBlYiFNKmMjE5zdfCjeStaxA?e=Fw74R1">Download</a> | 4.2 GB |
 | CBOW | 300 | 25 | 20 | 67% | 93% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Eb33ZorHlgNCibiE9HQdq9oBW6szxsfGN-kvscq5MQH5Fw?e=YWULbn">Download</a> | 4.2 GB |
-| Skip-Gram | 300 | 25 | 5 | 71% | 92% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EZ5nl68KBxJDm4VoLcAzV9wBrNW9eglb2Pse0hg3U1kQAg?e=yc1lAF">Download</a> | 4.2 GB |
-| Skip-Gram | 300 | 25 | 15 | 79% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EfQge6CHUVtLsnL0uKVIbvgBLeLZi44cA9LX23HF439nSg?e=hseSCE">Download</a> | 4.2 GB |
-| Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EXT1iP0bYn9GmFgLM18cCeEBixKcuOjjekNOf5FqgDEZJw?e=eHcPSj">Download</a> | 4.2 GB |
+| Skip-Gram | 300 | 25 | 5 | 71% | 92% | <a href="https://drive.google.com/file/d/1BenQcAFpo-K4FSL0DcdxMa0uLLT-uZvu/view?usp=sharing">Download</a> | 4.2 GB |
+| Skip-Gram | 300 | 25 | 15 | 79% | 98% | <a href="https://drive.google.com/file/d/1getGtHreDWL0TAZdXaovPewKx0OGgPQS/view?usp=sharing">Download</a> | 4.2 GB |
+| Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://drive.google.com/file/d/17AzcDiM9FVwE9TUZToZiEqUP9OGrXqIM/view?usp=sharing">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERpnT8Uxk4JIhcIq3uk3xSoBih9-nWGGFoIPnYkLOPJ8kQ?e=xkGeTg">Download</a> | 6.29 GB |
 | FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec4aEOxyeylCocxOeEe7BjgBiXTRsRmM4jl7OfQ6ZjIS_w?e=oea9Ga">Download</a> | 6.29 GB |
 | FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EWP9jFB6JKFBrB3bm7kRHuMBVl83iAAZYd2FUbUxfyAZBQ?e=hZoUTh">Download</a> | 6.29 GB |
