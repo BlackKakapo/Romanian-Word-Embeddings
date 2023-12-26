@@ -27,8 +27,8 @@ The text is pre processed and cleaned.
 | Skip-Gram | 300 | 25 | 15 | 79% | 98% | <a href="https://drive.google.com/file/d/1getGtHreDWL0TAZdXaovPewKx0OGgPQS/view?usp=sharing">Download</a> | 4.2 GB |
 | Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://drive.google.com/file/d/17AzcDiM9FVwE9TUZToZiEqUP9OGrXqIM/view?usp=sharing">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://drive.google.com/file/d/1zgm8v_scFWhbECOp9T0ZnLQtJ89T6h5r/view?usp=sharing">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Ec4aEOxyeylCocxOeEe7BjgBiXTRsRmM4jl7OfQ6ZjIS_w?e=oea9Ga">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EWP9jFB6JKFBrB3bm7kRHuMBVl83iAAZYd2FUbUxfyAZBQ?e=hZoUTh">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://drive.google.com/file/d/1XOcijO_gAP3PZJCf8-PO3Tii4ThNxX6p/view?usp=sharing">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://drive.google.com/file/d/1YRMq7Gt_Eq-IJm1-2RLPCQxyOsfQgc_k/view?usp=sharing">Download</a> | 6.29 GB |
 
 #
 
