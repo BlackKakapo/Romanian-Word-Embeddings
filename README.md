@@ -33,6 +33,15 @@ The text is pre processed and cleaned.
 
 #
 
+### Principal component analysis (PCA)
+
+| Method | Size | Min_count | Window | SET1 - Precision | SET2 - Precision | Download | Size | 
+| ------ |----- | --------- | ------ | ---- | ---- | --------- | ----- |
+| Skip-Gram (PCA) | 120 | 25 | 20 | 65.70% | 95.24% | <a href="https://drive.google.com/file/d/1wMgxbxX9hjb2ha59jAC_SVYPSQuNVcNP/view?usp=sharing">Download</a> | 628 MB |
+| FastText (PCA)  | 120 | 25 | 20 | 58.40% | 88.74% | <a href="https://drive.google.com/file/d/1wIOpS0dR4FIHYuqtKsaMrSGmQm6QXYm3/view?usp=sharing">Download</a> | 628 MB |
+
+#
+
 SET1 and SET2 are sets with questions-answer with country and capitals, that was made by Romanian Academy (They have their own vectors, you can check it right there [CoRoLa](http://89.38.230.23/word_embeddings/)).
 
 
@@ -109,4 +118,17 @@ Out:
 ('filozof', 0.604558527469635)
 ('teoretician', 0.6006152629852295)
 ('cercetător', 0.5948916673660278)
+```
+
+#
+
+### Principal component analysis (PCA)
+
+```python
+from gensim.models import KeyedVectors
+
+model_path = 'FT_120_PCA.model'
+model = KeyedVectors.load(model_path)
+model.most_similar('**WORD**')
+
 ```
