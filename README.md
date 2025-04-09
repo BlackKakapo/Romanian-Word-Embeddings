@@ -20,15 +20,16 @@ The text is pre processed and cleaned.
 
 | Method | Size | Min_count | Window | SET1 - Precision | SET2 - Precision | Download | Size | 
 | ------ |----- | --------- | ------ | ---- | ---- | --------- | ----- |
-| CBOW | 300 | 25 | 5 | 14% | 23% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/ERi2j7fQ5bJEgD0-AkLqxacBENnRopTmoyNmF27fmgu9SQ?e=9tWddy">Download</a> | 4.2 GB |
-| CBOW | 300 | 25 | 15 | 66% | 91% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/EUREkeqmIjxMhLaRs5Z_0QUBlYiFNKmMjE5zdfCjeStaxA?e=Fw74R1">Download</a> | 4.2 GB |
-| CBOW | 300 | 25 | 20 | 67% | 93% | <a href="https://utm-my.sharepoint.com/:u:/g/personal/alexandru_petrachi_iis_utm_md/Eb33ZorHlgNCibiE9HQdq9oBW6szxsfGN-kvscq5MQH5Fw?e=YWULbn">Download</a> | 4.2 GB |
+| CBOW | 300 | 25 | 5 | 14% | 23% | Lost in Void | 4.2 GB |
+| CBOW | 300 | 25 | 15 | 66% | 91% | Lost in Void | 4.2 GB |
+| CBOW | 300 | 25 | 20 | 67% | 93% | Lost in Void | 4.2 GB |
 | Skip-Gram | 300 | 25 | 5 | 71% | 92% | <a href="https://drive.google.com/file/d/1BenQcAFpo-K4FSL0DcdxMa0uLLT-uZvu/view?usp=sharing">Download</a> | 4.2 GB |
 | Skip-Gram | 300 | 25 | 15 | 79% | 98% | <a href="https://drive.google.com/file/d/1getGtHreDWL0TAZdXaovPewKx0OGgPQS/view?usp=sharing">Download</a> | 4.2 GB |
 | Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://drive.google.com/file/d/17AzcDiM9FVwE9TUZToZiEqUP9OGrXqIM/view?usp=sharing">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://drive.google.com/file/d/1zgm8v_scFWhbECOp9T0ZnLQtJ89T6h5r/view?usp=sharing">Download</a> | 6.29 GB |
 | FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://drive.google.com/file/d/1XOcijO_gAP3PZJCf8-PO3Tii4ThNxX6p/view?usp=sharing">Download</a> | 6.29 GB |
 | FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://drive.google.com/file/d/1YRMq7Gt_Eq-IJm1-2RLPCQxyOsfQgc_k/view?usp=sharing">Download</a> | 6.29 GB |
+|-------------------------------------------------------------------|
 
 #
 
