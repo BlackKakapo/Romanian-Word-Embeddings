@@ -42,6 +42,17 @@ The text is pre processed and cleaned.
 
 #
 
+### Principal component analysis (PCA) and Pruned
+
+| Method | Size | Top Words | SET1 - Precision | SET2 - Precision | Download | Size | 
+| ------ |----- | --------- | ------ | ---- | ---- | --------- |
+| Skip-Gram Pruned and PCA | 120 | 300K | 66.70% | 92.21% | <a href="https://drive.google.com/file/d/11RpOTMKnGxxzOjjc-BX7K_Da448pN5KC/view?usp=sharing">Download</a> | 284 MB |
+| Skip-Gram Pruned and PCA | 120 | 50K | 32.82% | 78.35% | <a href="https://drive.google.com/file/d/1cSuS26qyNIdi6qJtdkXrJFIRRSF9a9Nu/view?usp=sharing">Download</a> | 47.2 MB |
+| FastText Pruned and PCA  | 120 | 300K | 62.32% | 90.26% | <a href="https://drive.google.com/file/d/14C-DiBqKmaOfNfOkorZuhdR29_rka9Be/view?usp=sharing">Download</a> | 284 MB |
+| FastText Pruned and PCA  | 120 | 50k | 33.40% | 79.87% | <a href="https://drive.google.com/file/d/1o35qRwyxzCDmMZg9YRFq7-uTOhSSp99q/view?usp=sharing">Download</a> | 47.2 MB |
+
+#
+
 SET1 and SET2 are sets with questions-answer with country and capitals, that was made by Romanian Academy (They have their own vectors, you can check it right there [CoRoLa](http://89.38.230.23/word_embeddings/)).
 
 
