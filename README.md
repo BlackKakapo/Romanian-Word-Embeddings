@@ -23,11 +23,11 @@ The text is pre processed and cleaned.
 | CBOW | 300 | 25 | 5 | 14% | 23% | Lost in Void | 4.2 GB |
 | CBOW | 300 | 25 | 15 | 66% | 91% | Lost in Void | 4.2 GB |
 | CBOW | 300 | 25 | 20 | 67% | 93% | Lost in Void | 4.2 GB |
-| Skip-Gram | 300 | 25 | 5 | 71% | 92% | <a href="https://drive.google.com/file/d/1BenQcAFpo-K4FSL0DcdxMa0uLLT-uZvu/view?usp=sharing">Download</a> | 4.2 GB |
-| Skip-Gram | 300 | 25 | 15 | 79% | 98% | <a href="https://drive.google.com/file/d/1getGtHreDWL0TAZdXaovPewKx0OGgPQS/view?usp=sharing">Download</a> | 4.2 GB |
+| Skip-Gram | 300 | 25 | 5 | 71% | 92% | Lost in Void | 4.2 GB |
+| Skip-Gram | 300 | 25 | 15 | 79% | 98% | Lost in Void | 4.2 GB |
 | Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://drive.google.com/file/d/17AzcDiM9FVwE9TUZToZiEqUP9OGrXqIM/view?usp=sharing">Download</a> | 4.2 GB |
-| FastText | 300 | 25 | 5 | 66% | 95% | <a href="https://drive.google.com/file/d/1zgm8v_scFWhbECOp9T0ZnLQtJ89T6h5r/view?usp=sharing">Download</a> | 6.29 GB |
-| FastText | 300 | 25 | 15 | 72% | 97% | <a href="https://drive.google.com/file/d/1XOcijO_gAP3PZJCf8-PO3Tii4ThNxX6p/view?usp=sharing">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 5 | 66% | 95% | Lost in Void | 6.29 GB |
+| FastText | 300 | 25 | 15 | 72% | 97% | Lost in Void | 6.29 GB |
 | FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://drive.google.com/file/d/1YRMq7Gt_Eq-IJm1-2RLPCQxyOsfQgc_k/view?usp=sharing">Download</a> | 6.29 GB |
 
 
