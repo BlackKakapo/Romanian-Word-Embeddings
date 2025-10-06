@@ -25,7 +25,7 @@ The text is pre processed and cleaned.
 | CBOW | 300 | 25 | 20 | 67% | 93% | Lost in Void | 4.2 GB |
 | Skip-Gram | 300 | 25 | 5 | 71% | 92% | Lost in Void | 4.2 GB |
 | Skip-Gram | 300 | 25 | 15 | 79% | 98% | Lost in Void | 4.2 GB |
-| Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://drive.google.com/file/d/17AzcDiM9FVwE9TUZToZiEqUP9OGrXqIM/view?usp=sharing">Download</a> | 4.2 GB |
+| Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="[https://drive.google.com/file/d/17AzcDiM9FVwE9TUZToZiEqUP9OGrXqIM/view?usp=sharing](https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/SG_300_25_20.7z)">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | Lost in Void | 6.29 GB |
 | FastText | 300 | 25 | 15 | 72% | 97% | Lost in Void | 6.29 GB |
 | FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://drive.google.com/file/d/1YRMq7Gt_Eq-IJm1-2RLPCQxyOsfQgc_k/view?usp=sharing">Download</a> | 6.29 GB |
