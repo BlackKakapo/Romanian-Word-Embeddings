@@ -28,7 +28,7 @@ The text is pre processed and cleaned.
 | Skip-Gram | 300 | 25 | 20 | 79% | 98% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/SG_300_25_20.7z">Download</a> | 4.2 GB |
 | FastText | 300 | 25 | 5 | 66% | 95% | Lost in Void | 6.29 GB |
 | FastText | 300 | 25 | 15 | 72% | 97% | Lost in Void | 6.29 GB |
-| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://drive.google.com/file/d/1YRMq7Gt_Eq-IJm1-2RLPCQxyOsfQgc_k/view?usp=sharing">Download</a> | 6.29 GB |
+| FastText | 300 | 25 | 20 | 74% | 98% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/FT_SG_300_25_20.7z">Download</a> | 6.29 GB |
 
 
 #
@@ -37,8 +37,8 @@ The text is pre processed and cleaned.
 
 | Method | Size | Min_count | Window | SET1 - Precision | SET2 - Precision | Download | Size | 
 | ------ |----- | --------- | ------ | ---- | ---- | --------- | ----- |
-| Skip-Gram (PCA) | 120 | 25 | 20 | 65.70% | 95.24% | <a href="https://drive.google.com/file/d/1wMgxbxX9hjb2ha59jAC_SVYPSQuNVcNP/view?usp=sharing">Download</a> | 628 MB |
-| FastText (PCA)  | 120 | 25 | 20 | 58.40% | 88.74% | <a href="https://drive.google.com/file/d/1wIOpS0dR4FIHYuqtKsaMrSGmQm6QXYm3/view?usp=sharing">Download</a> | 628 MB |
+| Skip-Gram (PCA) | 120 | 25 | 20 | 65.70% | 95.24% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/SG_120_PCA.7z">Download</a> | 628 MB |
+| FastText (PCA)  | 120 | 25 | 20 | 58.40% | 88.74% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/FT_120_PCA.7z">Download</a> | 628 MB |
 
 #
 
@@ -46,10 +46,10 @@ The text is pre processed and cleaned.
 
 | Method | Size | Top Words | SET1 - Precision | SET2 - Precision | Download | Size | 
 | ------ |----- | --------- | ------ | ---- | ---- | --------- |
-| Skip-Gram Pruned and PCA | 120 | 300K | 66.70% | 92.21% | <a href="https://drive.google.com/file/d/11RpOTMKnGxxzOjjc-BX7K_Da448pN5KC/view?usp=sharing">Download</a> | 284 MB |
-| Skip-Gram Pruned and PCA | 120 | 50K | 32.82% | 78.35% | <a href="https://drive.google.com/file/d/1cSuS26qyNIdi6qJtdkXrJFIRRSF9a9Nu/view?usp=sharing">Download</a> | 47.2 MB |
-| FastText Pruned and PCA  | 120 | 300K | 62.32% | 90.26% | <a href="https://drive.google.com/file/d/14C-DiBqKmaOfNfOkorZuhdR29_rka9Be/view?usp=sharing">Download</a> | 284 MB |
-| FastText Pruned and PCA  | 120 | 50k | 33.40% | 79.87% | <a href="https://drive.google.com/file/d/1o35qRwyxzCDmMZg9YRFq7-uTOhSSp99q/view?usp=sharing">Download</a> | 47.2 MB |
+| Skip-Gram Pruned and PCA | 120 | 300K | 66.70% | 92.21% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/SG_pruned_PCA_300K.7z">Download</a> | 284 MB |
+| Skip-Gram Pruned and PCA | 120 | 50K | 32.82% | 78.35% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/SG_pruned_PCA_50k.7z">Download</a> | 47.2 MB |
+| FastText Pruned and PCA  | 120 | 300K | 62.32% | 90.26% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/FT_pruned_PCA_300k.7z">Download</a> | 284 MB |
+| FastText Pruned and PCA  | 120 | 50k | 33.40% | 79.87% | <a href="https://huggingface.co/BlackKakapo/word-embeddings-ro/blob/main/FT_pruned_PCA_50k.7z">Download</a> | 47.2 MB |
 
 #
 
